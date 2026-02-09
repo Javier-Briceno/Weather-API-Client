@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Miami",
+    "region": "Florida",
+    "country": "United States of America",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "tz_id": "America/New_York",
+    "localtime_epoch": 1755400200,
+    "localtime": "2025-08-16 23:10"
+  },
+  "current": {
+    "last_updated_epoch": 1755399600,
+    "last_updated": "2025-08-16 23:00",
+    "temp_c": 29.0,
+    "temp_f": 84.2,
+    "is_day": 0,
+    "condition": {
+      "text": "Moderate or heavy rain with thunder",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/389.png",
+      "code": 1276
+    },
+    "wind_mph": 12.5,
+    "wind_kph": 20.1,
+    "wind_degree": 210,
+    "wind_dir": "SSW",
+    "pressure_mb": 1006.0,
+    "pressure_in": 29.71,
+    "precip_mm": 8.6,
+    "precip_in": 0.34,
+    "humidity": 70,
+    "cloud": 90,
+    "feelslike_c": 33.0,
+    "feelslike_f": 91.4,
+    "windchill_c": 29.0,
+    "windchill_f": 84.2,
+    "heatindex_c": 33.0,
+    "heatindex_f": 91.4,
+    "dewpoint_c": 23.2,
+    "dewpoint_f": 73.8,
+    "vis_km": 5.0,
+    "vis_miles": 3.0,
+    "uv": 0.0,
+    "gust_mph": 20.1,
+    "gust_kph": 32.3,
+    "short_rad": 0,
+    "diff_rad": 0,
+    "dni": 0,
+    "gti": 0
+  }
+}

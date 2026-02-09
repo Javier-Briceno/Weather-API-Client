@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Berlin",
+    "region": "Berlin",
+    "country": "Germany",
+    "lat": 52.5167,
+    "lon": 13.4,
+    "tz_id": "Europe/Berlin",
+    "localtime_epoch": 1755418200,
+    "localtime": "2025-08-17 09:10"
+  },
+  "current": {
+    "last_updated_epoch": 1755417600,
+    "last_updated": "2025-08-17 09:00",
+    "temp_c": 22.4,
+    "temp_f": 72.3,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 6.9,
+    "wind_kph": 11.1,
+    "wind_degree": 270,
+    "wind_dir": "W",
+    "pressure_mb": 1016.0,
+    "pressure_in": 30.0,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 40,
+    "cloud": 0,
+    "feelslike_c": 22.4,
+    "feelslike_f": 72.3,
+    "windchill_c": 22.4,
+    "windchill_f": 72.3,
+    "heatindex_c": 23.3,
+    "heatindex_f": 73.9,
+    "dewpoint_c": 8.0,
+    "dewpoint_f": 46.4,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 5.0,
+    "gust_mph": 10.0,
+    "gust_kph": 16.1,
+    "short_rad": 360,
+    "diff_rad": 120,
+    "dni": 650,
+    "gti": 500
+  }
+}

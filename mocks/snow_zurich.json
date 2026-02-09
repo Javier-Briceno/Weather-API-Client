@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Zürich",
+    "region": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3769,
+    "lon": 8.5417,
+    "tz_id": "Europe/Zurich",
+    "localtime_epoch": 1755418200,
+    "localtime": "2025-08-17 09:10"
+  },
+  "current": {
+    "last_updated_epoch": 1755417600,
+    "last_updated": "2025-08-17 09:00",
+    "temp_c": -2.5,
+    "temp_f": 27.5,
+    "is_day": 1,
+    "condition": {
+      "text": "Moderate snow",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/338.png",
+      "code": 1216
+    },
+    "wind_mph": 5.6,
+    "wind_kph": 9.0,
+    "wind_degree": 15,
+    "wind_dir": "NNE",
+    "pressure_mb": 1019.0,
+    "pressure_in": 30.09,
+    "precip_mm": 1.8,
+    "precip_in": 0.07,
+    "humidity": 92,
+    "cloud": 100,
+    "feelslike_c": -6.0,
+    "feelslike_f": 21.2,
+    "windchill_c": -6.0,
+    "windchill_f": 21.2,
+    "heatindex_c": -2.5,
+    "heatindex_f": 27.5,
+    "dewpoint_c": -3.1,
+    "dewpoint_f": 26.4,
+    "vis_km": 2.0,
+    "vis_miles": 1.0,
+    "uv": 1.0,
+    "gust_mph": 9.2,
+    "gust_kph": 14.8,
+    "short_rad": 80,
+    "diff_rad": 40,
+    "dni": 120,
+    "gti": 60
+  }
+}
